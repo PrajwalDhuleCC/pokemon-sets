@@ -1,0 +1,477 @@
+{
+  "Abomasnow": {
+    "level": 84,
+    "abilities": [
+      "Snow Warning"
+    ],
+    "items": [
+      "Light Clay"
+    ],
+    "roles": {
+      "Bulky Support": {
+        "abilities": [
+          "Snow Warning"
+        ],
+        "items": [
+          "Light Clay"
+        ],
+        "teraTypes": [
+          "Ice",
+          "Water"
+        ],
+        "moves": [
+          "Aurora Veil",
+          "Blizzard",
+          "Earthquake",
+          "Ice Shard",
+          "Wood Hammer"
+        ],
+        "evs": {
+          "hp": 77
+        }
+      }
+    },
+    "evs": {
+      "hp": 77
+    }
+  },
+  "Arbok": {
+    "level": 87,
+    "abilities": [
+      "Intimidate"
+    ],
+    "items": [
+      "Choice Band",
+      "Focus Sash",
+      "Leftovers",
+      "Life Orb"
+    ],
+    "roles": {
+      "Bulky Setup": {
+        "abilities": [
+          "Intimidate"
+        ],
+        "items": [
+          "Leftovers"
+        ],
+        "teraTypes": [
+          "Grass",
+          "Ground"
+        ],
+        "moves": [
+          "Coil",
+          "Earthquake",
+          "Gunk Shot",
+          "Trailblaze"
+        ]
+      },
+      "Bulky Attacker": {
+        "abilities": [
+          "Intimidate"
+        ],
+        "items": [
+          "Leftovers"
+        ],
+        "teraTypes": [
+          "Dark",
+          "Ground"
+        ],
+        "moves": [
+          "Coil",
+          "Earthquake",
+          "Gunk Shot",
+          "Sucker Punch"
+        ]
+      },
+      "Fast Support": {
+        "abilities": [
+          "Intimidate"
+        ],
+        "items": [
+          "Choice Band",
+          "Focus Sash",
+          "Leftovers",
+          "Life Orb"
+        ],
+        "teraTypes": [
+          "Dark",
+          "Ground"
+        ],
+        "moves": [
+          "Earthquake",
+          "Glare",
+          "Gunk Shot",
+          "Knock Off",
+          "Sucker Punch",
+          "Toxic Spikes"
+        ]
+      }
+    }
+  },
+  "Banette": {
+    "level": 93,
+    "abilities": [
+      "Cursed Body",
+      "Insomnia"
+    ],
+    "items": [
+      "Life Orb"
+    ],
+    "roles": {
+      "Wallbreaker": {
+        "abilities": [
+          "Cursed Body",
+          "Insomnia"
+        ],
+        "items": [
+          "Life Orb"
+        ],
+        "teraTypes": [
+          "Ghost",
+          "Poison"
+        ],
+        "moves": [
+          "Gunk Shot",
+          "Poltergeist",
+          "Shadow Sneak",
+          "Swords Dance",
+          "Thunder Wave"
+        ]
+      }
+    }
+  },
+  "Cacturne": {
+    "level": 92,
+    "abilities": [
+      "Water Absorb"
+    ],
+    "items": [
+      "Life Orb"
+    ],
+    "roles": {
+      "Wallbreaker": {
+        "abilities": [
+          "Water Absorb"
+        ],
+        "items": [
+          "Life Orb"
+        ],
+        "teraTypes": [
+          "Dark",
+          "Grass",
+          "Poison"
+        ],
+        "moves": [
+          "Focus Blast",
+          "Knock Off",
+          "Leaf Storm",
+          "Spikes",
+          "Sucker Punch",
+          "Toxic Spikes"
+        ]
+      },
+      "Setup Sweeper": {
+        "abilities": [
+          "Water Absorb"
+        ],
+        "items": [
+          "Life Orb"
+        ],
+        "teraTypes": [
+          "Dark",
+          "Poison"
+        ],
+        "moves": [
+          "Drain Punch",
+          "Knock Off",
+          "Seed Bomb",
+          "Sucker Punch",
+          "Swords Dance"
+        ]
+      }
+    }
+  },
+  "Crabominable": {
+    "level": 90,
+    "abilities": [
+      "Iron Fist"
+    ],
+    "items": [
+      "Assault Vest",
+      "Choice Band"
+    ],
+    "roles": {
+      "AV Pivot": {
+        "abilities": [
+          "Iron Fist"
+        ],
+        "items": [
+          "Assault Vest"
+        ],
+        "teraTypes": [
+          "Fighting",
+          "Ground",
+          "Water"
+        ],
+        "moves": [
+          "Drain Punch",
+          "Earthquake",
+          "Ice Hammer",
+          "Knock Off"
+        ]
+      },
+      "Wallbreaker": {
+        "abilities": [
+          "Iron Fist"
+        ],
+        "items": [
+          "Choice Band"
+        ],
+        "teraTypes": [
+          "Fighting",
+          "Ground"
+        ],
+        "moves": [
+          "Close Combat",
+          "Drain Punch",
+          "Earthquake",
+          "Gunk Shot",
+          "Ice Hammer",
+          "Knock Off"
+        ]
+      }
+    }
+  },
+  "Cramorant": {
+    "level": 86,
+    "abilities": [
+      "Gulp Missile"
+    ],
+    "items": [
+      "Heavy-Duty Boots"
+    ],
+    "roles": {
+      "Bulky Support": {
+        "abilities": [
+          "Gulp Missile"
+        ],
+        "items": [
+          "Heavy-Duty Boots"
+        ],
+        "teraTypes": [
+          "Ground"
+        ],
+        "moves": [
+          "Brave Bird",
+          "Defog",
+          "Roost",
+          "Surf"
+        ]
+      }
+    }
+  },
+  "Eelektross": {
+    "level": 87,
+    "abilities": [
+      "Levitate"
+    ],
+    "items": [
+      "Assault Vest",
+      "Leftovers"
+    ],
+    "roles": {
+      "Bulky Setup": {
+        "abilities": [
+          "Levitate"
+        ],
+        "items": [
+          "Leftovers"
+        ],
+        "teraTypes": [
+          "Fighting"
+        ],
+        "moves": [
+          "Coil",
+          "Drain Punch",
+          "Fire Punch",
+          "Knock Off",
+          "Supercell Slam"
+        ]
+      },
+      "AV Pivot": {
+        "abilities": [
+          "Levitate"
+        ],
+        "items": [
+          "Assault Vest"
+        ],
+        "teraTypes": [
+          "Poison",
+          "Steel"
+        ],
+        "moves": [
+          "Close Combat",
+          "Discharge",
+          "Dragon Tail",
+          "Flamethrower",
+          "Giga Drain",
+          "Knock Off",
+          "U-turn"
+        ]
+      }
+    }
+  },
+  "Emboar": {
+    "level": 84,
+    "abilities": [
+      "Reckless"
+    ],
+    "items": [
+      "Assault Vest",
+      "Choice Band",
+      "Choice Scarf",
+      "Leftovers"
+    ],
+    "roles": {
+      "AV Pivot": {
+        "abilities": [
+          "Reckless"
+        ],
+        "items": [
+          "Assault Vest"
+        ],
+        "teraTypes": [
+          "Dark",
+          "Electric",
+          "Fire",
+          "Water"
+        ],
+        "moves": [
+          "Close Combat",
+          "Flare Blitz",
+          "Knock Off",
+          "Scald",
+          "Sucker Punch",
+          "Wild Charge"
+        ]
+      },
+      "Bulky Setup": {
+        "abilities": [
+          "Reckless"
+        ],
+        "items": [
+          "Leftovers"
+        ],
+        "teraTypes": [
+          "Fighting",
+          "Grass"
+        ],
+        "moves": [
+          "Bulk Up",
+          "Drain Punch",
+          "Flare Blitz",
+          "Trailblaze"
+        ]
+      },
+      "Fast Attacker": {
+        "abilities": [
+          "Reckless"
+        ],
+        "items": [
+          "Choice Band",
+          "Choice Scarf"
+        ],
+        "teraTypes": [
+          "Fire"
+        ],
+        "moves": [
+          "Close Combat",
+          "Flare Blitz",
+          "Head Smash",
+          "Knock Off",
+          "Wild Charge"
+        ]
+      }
+    }
+  },
+  "Exeggutor-Alola": {
+    "level": 89,
+    "abilities": [
+      "Frisk",
+      "Harvest"
+    ],
+    "items": [
+      "Choice Specs",
+      "Sitrus Berry"
+    ],
+    "roles": {
+      "Bulky Setup": {
+        "abilities": [
+          "Harvest"
+        ],
+        "items": [
+          "Sitrus Berry"
+        ],
+        "teraTypes": [
+          "Fire",
+          "Steel"
+        ],
+        "moves": [
+          "Calm Mind",
+          "Dragon Pulse",
+          "Flamethrower",
+          "Giga Drain"
+        ],
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 0
+        }
+      },
+      "Fast Attacker": {
+        "abilities": [
+          "Harvest"
+        ],
+        "items": [
+          "Sitrus Berry"
+        ],
+        "teraTypes": [
+          "Fire"
+        ],
+        "moves": [
+          "Draco Meteor",
+          "Dragon Tail",
+          "Flamethrower",
+          "Knock Off",
+          "Moonlight",
+          "Sleep Powder",
+          "Stun Spore",
+          "Wood Hammer"
+        ]
+      },
+      "Wallbreaker": {
+        "abilities": [
+          "Frisk"
+        ],
+        "items": [
+          "Choice Specs"
+        ],
+        "teraTypes": [
+          "Fire"
+        ],
+        "moves": [
+          "Draco Meteor",
+          "Flamethrower",
+          "Giga Drain",
+          "Leaf Storm"
+        ],
+        "evs": {
+          "atk": 0
+        },
+        "ivs": {
+          "atk": 0
+        }
+      }
+    }
+  },
